@@ -1,7 +1,7 @@
 # Welcome To My Information Page
 
 ### Crypto Donation Adresses:
-- BTC (BitCoin): `bc1qgj60e2wwq4dv75c2tw3vuqhjqguks3cq7kk33m`  
+- BTC (BitCoin): `bc1qervzrxtkljdpj6e9ufvclfzztjn6rn2waxmn2a`  
 - BCH (BitCoin Cash): `bitcoincash:qq5vwrmfrfw0085gc766w8hdluu8mmy68vzdh633st`
 - ETH (Ethereum): `0x8A158746775DF2711Ec378e940701a323F01cb06`  
 - XRP (XRP): `rJGL9r2nhAUikN9faqEpmCJWotNvqg646c`  
